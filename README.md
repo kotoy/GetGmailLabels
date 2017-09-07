@@ -14,6 +14,7 @@ Save the service account JSON to service_account_secret.json and copy it in the 
 https://support.google.com/cloud/answer/6158841?hl=en
 
 -Make sure you have Python 2.7 installed
+
 -Install the latest google API
 pip install --upgrade google-api-python-client
 
