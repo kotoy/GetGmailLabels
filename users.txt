@@ -1,0 +1,2 @@
+testuser@mydomain.com
+testuser2@myotherdomain.com
